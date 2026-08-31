@@ -1,5 +1,6 @@
 # Schluss mit „Code geschrieben, aber keiner nutzt ihn“: Der 7-Tage-Online-Business-Blueprint für Indie-Developer
 
+
 3:00 Uhr nachts. Der letzte Unit-Test im Terminal ist erfolgreich durchgelaufen, und das grüne `PASS` leuchtet stolz auf dem dunklen Bildschirm.
 
 Du hast ganze drei Wochenenden damit verbracht, den modernsten Tech-Stack aufzubauen, CSS-Layouts und Dark-Mode-Switches zu verfeinern und CI/CD-Pipelines sowie Docker-Container makellos zu konfigurieren. Mit einer Mischung aus Aufregung und Nervosität veröffentlichst du den Domain-Link und die Produktbeschreibung auf Reddit, Twitter oder Hacker News, voll Hoffnung auf die ersten begeisterten Nutzer.
